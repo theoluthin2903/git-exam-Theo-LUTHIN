@@ -3,8 +3,7 @@
 Vous travaillez en groupe sur un dépôt GitHub pour produire un site web en Golang.
 
 Le site affiche pour le moment une page vide
-dz87
-z*Deux fonctionnalités seront développées en parallèle, depuis la branche `dev` déjà existante (voir schéma de l’état initial du dépôt).
+Deux fonctionnalités seront développées en parallèle, depuis la branche `dev` déjà existante (voir schéma de l’état initial du dépôt).
 
 La première est l’affichage de l’URL visitée par l’utilisateur, dans la branche `feature-url`, où la branche est déjà créée et le développement est terminé. La seconde fonctionnalité est l’affichage d’une page en couleur, dans la branche `feature-color` qui devra être créée et développée par vous.
 
@@ -122,4 +121,4 @@ Vous devez :
 **(3 points)** Faite une modification aléatoire au `README.md`, et faites un commit. Malheureusement, après une longue discussion avec vos collègues sur le contenu que vous avez ajouté et qui est désormais visible par tout le monde, et le non respect des bonnes pratiques git en ne créant pas de branche temporaire pour s’assurer que vos changements ne cassent rien pour les utilisateurs, on vous demande de revenir sur vos changements. Votre tâche est de :
 
 1. Revenir à l'état précédent avec `git reset` ou `git revert`.
-2. Expliquer la différence entre les deux commandes.(Git reset sert a revenir sur un commit précedent si on s'est trompé, git revert est à peu pareil mais est plus efficace sur les branches distantes, alors que reset est plus efficace sur les branches locales) Ici, j'ai fait un git revert pour revenir sur la modification du README.
+2. Expliquer la différence entre les deux commandes.(Git reset sert a revenir sur un commit précedent si on s'est trompé, git revert est à peu pareil mais est plus efficace sur les branches distantes, alors que reset est plus efficace sur les branches locales) Ici, j'ai fait un git reset pour revenir sur la modification du README.
