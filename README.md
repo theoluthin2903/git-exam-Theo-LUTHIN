@@ -6,7 +6,7 @@ Le site affiche pour le moment une page vide. Deux fonctionnalités seront déve
 
 La première est l’affichage de l’URL visitée par l’utilisateur, dans la branche `feature-url`, où la branche est déjà créée et le développement est terminé. La seconde fonctionnalité est l’affichage d’une page en couleur, dans la branche `feature-color` qui devra être créée et développée par vous.
 
-Chaque exercice peut être fait indépendamment.
+Chaque exercice peut être fait.
 
 ### Etat inital du dépôt
 ```mermaid
